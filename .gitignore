@@ -1,0 +1,29 @@
+# IDEs
+.project
+.pydevproject
+.idea
+.vscode
+.settings
+
+# Random files
+*~
+\#*
+
+virtualenv/
+htmlcov/
+
+# Python compiled byte code and installation droppings
+*.pyc
+*.egg-info
+.eggs
+
+# Vagrant
+.vagrant
+
+*.csv
+*.meta
+*.txt
+*.json
+
+/github.com
+/golang.org
